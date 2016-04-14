@@ -1,0 +1,36 @@
+body {
+	font-family: 'Cabin', Helvetica, san-serif;
+	font-size: 18px;
+	margin: 0;
+	padding: 0;
+}
+
+h1, h2 {
+	font-family: 'Droid Serif', Helvetica, san-serif;
+}
+
+.tag-line {
+	font-variant: small-caps;
+}
+
+.sec1 {
+	background-color: #999;
+}
+
+.sec2 {
+	background-color: green;
+}
+
+header, section {
+	padding: 1em;
+}
+
+a {
+	text-decoration: none;
+}
+
+svg {
+	height: 2em;
+	fill: beige;
+	stroke: blueviolet;
+}
